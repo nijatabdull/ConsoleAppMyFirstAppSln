@@ -7,6 +7,9 @@
             int a = 5;
              int b = ++a;
 
+            Console.WriteLine(a);
+            Console.WriteLine(b);
+
             Console.ReadKey();
         }
     }

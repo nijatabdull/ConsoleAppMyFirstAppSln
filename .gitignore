@@ -1,0 +1,13 @@
+ConsoleAppMyFirstAppSln/.vs/
+
+ConsoleAppMyFirstAppSln/ConsoleAppMyFirstApp/Bin/
+ConsoleAppMyFirstAppSln/ConsoleAppMyFirstApp/Obj/
+
+ConsoleAppMyFirstAppSln/ConsoleAppRectangeArea/Bin/
+ConsoleAppMyFirstAppSln/ConsoleAppRectangeArea/Obj/
+
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
