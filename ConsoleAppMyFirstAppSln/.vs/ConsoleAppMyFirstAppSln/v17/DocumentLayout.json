@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\nijat\\Desktop\\Lessons\\143\\29.10.2024\\Projects\\ConsoleAppMyFirstAppSln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{572A9CBC-DCA3-4991-9701-6C7854946231}|ConsoleAppMyFirstApp\\ConsoleAppMyFirstApp.csproj|c:\\users\\nijat\\desktop\\lessons\\143\\29.10.2024\\projects\\consoleappmyfirstappsln\\consoleappmyfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{572A9CBC-DCA3-4991-9701-6C7854946231}|ConsoleAppMyFirstApp\\ConsoleAppMyFirstApp.csproj|solutionrelative:consoleappmyfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ECB85634-956B-4350-A4B5-084449602EBF}|ConsoleAppRectangeArea\\ConsoleAppRectangeArea.csproj|c:\\users\\nijat\\desktop\\lessons\\143\\29.10.2024\\projects\\consoleappmyfirstappsln\\consoleapprectangearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECB85634-956B-4350-A4B5-084449602EBF}|ConsoleAppRectangeArea\\ConsoleAppRectangeArea.csproj|solutionrelative:consoleapprectangearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{572A9CBC-DCA3-4991-9701-6C7854946231}|ConsoleAppMyFirstApp\\ConsoleAppMyFirstApp.csproj|c:\\users\\nijat\\desktop\\lessons\\143\\29.10.2024\\projects\\consoleappmyfirstappsln\\consoleappmyfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{572A9CBC-DCA3-4991-9701-6C7854946231}|ConsoleAppMyFirstApp\\ConsoleAppMyFirstApp.csproj|solutionrelative:consoleappmyfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nijat\\Desktop\\Lessons\\143\\29.10.2024\\Projects\\ConsoleAppMyFirstAppSln\\ConsoleAppRectangeArea\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleAppRectangeArea\\Program.cs",
               "ToolTip": "C:\\Users\\nijat\\Desktop\\Lessons\\143\\29.10.2024\\Projects\\ConsoleAppMyFirstAppSln\\ConsoleAppRectangeArea\\Program.cs",
               "RelativeToolTip": "ConsoleAppRectangeArea\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-02T10:19:12.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nijat\\Desktop\\Lessons\\143\\29.10.2024\\Projects\\ConsoleAppMyFirstAppSln\\ConsoleAppMyFirstApp\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleAppMyFirstApp\\Program.cs",
               "ToolTip": "C:\\Users\\nijat\\Desktop\\Lessons\\143\\29.10.2024\\Projects\\ConsoleAppMyFirstAppSln\\ConsoleAppMyFirstApp\\Program.cs",
               "RelativeToolTip": "ConsoleAppMyFirstApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T15:33:04.913Z",
               "EditorCaption": ""
